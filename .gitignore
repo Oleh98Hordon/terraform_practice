@@ -1,0 +1,6 @@
+.terraform.lock.hcl
+.git
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/
+terraform/providers/registry.terraform.io/hashicorp/aws/3.73.0/darwin_amd64/terraform-provider-aws_v3.73.0_x5
